@@ -39,6 +39,11 @@
 
 - **[slack-blocks-markdown](https://github.com/atacan/slack-blocks-markdown)** - Python library that converts Markdown into Slack Block Kit blocks, handling headers, lists, code blocks, tables, and all inline formatting.
 
+## Tutorials
+
+You can do it! Read [Blog](https://actondon.com/blog)  
+or let your coding agent to read it and implement it for you ;)
+
 
 <!--
 **atacan/atacan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
