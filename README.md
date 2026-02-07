@@ -33,6 +33,7 @@
 ### Missing Swift SDKs
 
 - 🧠 **[AssemblyAI](https://github.com/atacan/AssemblyAI)** - Unofficial Swift SDK for AssemblyAI, built with Swift OpenAPI Generator
+- 🌀 **[MistralAPI](https://github.com/atacan/MistralAPI)** - Swift client for Mistral AI, generated from the official OpenAPI spec
 - 📨 **[TelegramBotAPI](https://github.com/atacan/TelegramBotAPI)** - Typed Swift client for Telegram Bot API + swift-log backend for chat logging
 
 ### Python
