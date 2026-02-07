@@ -11,33 +11,33 @@
 
 ## Apps
 
-- **[dictop](https://dictop.com/)** - Dictation for macOS/iOS that writes into any app with the best models
-- **[dopdock](https://dopdock.com/)** - macOS automation via a reimagined dock or voice commands
-- **[Speechall](https://speechall.com/)** - Unified speech-to-text API gateway for 12+ providers
-- **[Blissum](https://actondon.com/apps/blissum)** - macOS & iOS developer toolkit with converters, formatters, generators
-- **[record](https://github.com/atacan/record)** - Swift CLI that records microphone and screen, pipe-friendly for AI agents
+- 🎙️ **[dictop](https://dictop.com/)** - Dictation for macOS/iOS that writes into any app with the best models
+- 🚀 **[dopdock](https://dopdock.com/)** - macOS automation via a reimagined dock or voice commands
+- 🗣️ **[Speechall](https://speechall.com/)** - Unified speech-to-text API gateway for 12+ providers
+- 🛠️ **[Blissum](https://actondon.com/apps/blissum)** - macOS & iOS developer toolkit with converters, formatters, generators
+- ⏺️ **[record](https://github.com/atacan/record)** - Swift CLI that records microphone and screen, pipe-friendly for AI agents
 
 ## Packages
 
 ### Useful things for Swift
 
-- **[UsefulThings](https://github.com/atacan/UsefulThings)** - Zero-dependency async utilities: rate limiters, retry, circuit breakers, polling
-- **[UsefulThingsSwiftUI](https://github.com/atacan/UsefulThingsSwiftUI)** - SwiftUI components that fill the gaps
-- **[UsefulThingsPointFree](https://github.com/atacan/UsefulThingsPointFree)** - TCA dependencies for accessibility, clipboard, file panels, speech, and more
-- **[SwiftLogExport](https://github.com/atacan/SwiftLogExport)** - Build custom swift-log backends with buffering, async processing, graceful shutdown
-- **[postgres-for-swift-log](https://github.com/atacan/postgres-for-swift-log)** - swift-log backend that persists entries to PostgreSQL
-- **[RateLimiter](https://github.com/atacan/RateLimiter)** - Actor-based per-IP rate limiter with Hummingbird middleware
-- **[swift-string-similarity](https://github.com/atacan/swift-string-similarity)** - string similarity algorithms for Swift
-- **[JSBeautify](https://github.com/atacan/JSBeautify)** - Format JavaScript, CSS, and HTML in Swift via JavaScriptCore
+- 🧰 **[UsefulThings](https://github.com/atacan/UsefulThings)** - Zero-dependency async utilities: rate limiters, retry, circuit breakers, polling
+- 🎨 **[UsefulThingsSwiftUI](https://github.com/atacan/UsefulThingsSwiftUI)** - SwiftUI components that fill the gaps
+- 🧩 **[UsefulThingsPointFree](https://github.com/atacan/UsefulThingsPointFree)** - TCA dependencies for accessibility, clipboard, file panels, speech, and more
+- 📋 **[SwiftLogExport](https://github.com/atacan/SwiftLogExport)** - Build custom swift-log backends with buffering, async processing, graceful shutdown
+- 🐘 **[postgres-for-swift-log](https://github.com/atacan/postgres-for-swift-log)** - swift-log backend that persists entries to PostgreSQL
+- 🚦 **[RateLimiter](https://github.com/atacan/RateLimiter)** - Actor-based per-IP rate limiter with Hummingbird middleware
+- 🔤 **[swift-string-similarity](https://github.com/atacan/swift-string-similarity)** - string similarity algorithms for Swift
+- ✨ **[JSBeautify](https://github.com/atacan/JSBeautify)** - Format JavaScript, CSS, and HTML in Swift via JavaScriptCore
 
 ### Missing Swift SDKs
 
-- **[AssemblyAI](https://github.com/atacan/AssemblyAI)** - Unofficial Swift SDK for AssemblyAI, built with Swift OpenAPI Generator
-- **[TelegramBotAPI](https://github.com/atacan/TelegramBotAPI)** - Typed Swift client for Telegram Bot API + swift-log backend for chat logging
+- 🧠 **[AssemblyAI](https://github.com/atacan/AssemblyAI)** - Unofficial Swift SDK for AssemblyAI, built with Swift OpenAPI Generator
+- 📨 **[TelegramBotAPI](https://github.com/atacan/TelegramBotAPI)** - Typed Swift client for Telegram Bot API + swift-log backend for chat logging
 
 ### Python
 
-- **[slack-blocks-markdown](https://github.com/atacan/slack-blocks-markdown)** - Convert Markdown into Slack Block Kit blocks
+- 🐍 **[slack-blocks-markdown](https://github.com/atacan/slack-blocks-markdown)** - Convert Markdown into Slack Block Kit blocks
 
 ## Tutorials
 
