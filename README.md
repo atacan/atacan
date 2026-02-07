@@ -11,37 +11,37 @@
 
 ## Apps
 
-- **[dictop](https://dictop.com/)** - Dictation for macOS/iOS that writes into any app with all the best models. Whisper, Parakeet, AssemblyAI, ElevenLabs...
-- **[dopdock](https://dopdock.com/)** - macOS automation app that lets you execute workflows through a customizable dock or voice commands, integrating with other automation apps
-- **[Speechall](https://speechall.com/)** - unified speech-to-text API gateway that gives developers access to 12+ providers through a single interface, eliminating vendor lock-in
+- **[dictop](https://dictop.com/)** - Dictation for macOS/iOS that writes into any app with the best models
+- **[dopdock](https://dopdock.com/)** - macOS automation via a reimagined dock or voice commands
+- **[Speechall](https://speechall.com/)** - Unified speech-to-text API gateway for 12+ providers
 - **[Blissum](https://actondon.com/apps/blissum)** - macOS & iOS developer toolkit with converters, formatters, generators
-- **[record](https://github.com/atacan/record)** - Swift CLI tool that records microphone and screen, designed for piping into other commands and to be used by AI agents
+- **[record](https://github.com/atacan/record)** - Swift CLI that records microphone and screen, pipe-friendly for AI agents
 
 ## Packages
 
 ### Useful things for Swift
 
-- **[UsefulThings](https://github.com/atacan/UsefulThings)** - zero-dependency Swift utility library with async rate limiters, retry with exponential backoff, circuit breakers, polling, and async sequence helpers.
-- **[UsefulThingsSwiftUI](https://github.com/atacan/UsefulThingsSwiftUI)** - SwiftUI components that fill the gaps. async modal presenters, patient text inputs, floating panels, dynamic layouts, and more.
-- **[UsefulThingsPointFree](https://github.com/atacan/UsefulThingsPointFree)** - Swift dependencies & TCA utilities for macOS/iOS. accessibility, clipboard, file panels, speech recognition, system sounds, notifications, and more, all in one package.
-- **[SwiftLogExport](https://github.com/atacan/SwiftLogExport)** - framework that simplifies building custom swift-log backends with built-in buffering, async processing, and graceful shutdown.
-- **[postgres-for-swift-log](https://github.com/atacan/postgres-for-swift-log)** - swift-log backend that persists log entries to PostgreSQL with actor-based batching and graceful shutdown support.
-- **[RateLimiter](https://github.com/atacan/RateLimiter)** - An actor-based per-IP rate limiter for Swift servers with built-in Hummingbird middleware integration.
-- **[swift-string-similarity](https://github.com/atacan/swift-string-similarity)** - Foundation-free string similarity and distance algorithms for Swift including Levenshtein, Jaro-Winkler, Hamming, and token-based metrics.
-- **[JSBeautify](https://github.com/atacan/JSBeautify)** - Swift wrapper around js-beautify via JavaScriptCore for formatting JavaScript, CSS, and HTML programmatically.
+- **[UsefulThings](https://github.com/atacan/UsefulThings)** - Zero-dependency async utilities: rate limiters, retry, circuit breakers, polling
+- **[UsefulThingsSwiftUI](https://github.com/atacan/UsefulThingsSwiftUI)** - SwiftUI components that fill the gaps
+- **[UsefulThingsPointFree](https://github.com/atacan/UsefulThingsPointFree)** - TCA dependencies for accessibility, clipboard, file panels, speech, and more
+- **[SwiftLogExport](https://github.com/atacan/SwiftLogExport)** - Build custom swift-log backends with buffering, async processing, graceful shutdown
+- **[postgres-for-swift-log](https://github.com/atacan/postgres-for-swift-log)** - swift-log backend that persists entries to PostgreSQL
+- **[RateLimiter](https://github.com/atacan/RateLimiter)** - Actor-based per-IP rate limiter with Hummingbird middleware
+- **[swift-string-similarity](https://github.com/atacan/swift-string-similarity)** - string similarity algorithms for Swift
+- **[JSBeautify](https://github.com/atacan/JSBeautify)** - Format JavaScript, CSS, and HTML in Swift via JavaScriptCore
 
 ### Missing Swift SDKs
 
-- **[AssemblyAI](https://github.com/atacan/AssemblyAI)** - An unofficial Swift SDK for AssemblyAI's transcription and audio intelligence API, built with Swift OpenAPI Generator.
-- **[TelegramBotAPI](https://github.com/atacan/TelegramBotAPI)** - strongly typed Swift client for the Telegram Bot API with a built-in swift-log backend for sending logs to Telegram chats.
+- **[AssemblyAI](https://github.com/atacan/AssemblyAI)** - Unofficial Swift SDK for AssemblyAI, built with Swift OpenAPI Generator
+- **[TelegramBotAPI](https://github.com/atacan/TelegramBotAPI)** - Typed Swift client for Telegram Bot API + swift-log backend for chat logging
 
 ### Python
 
-- **[slack-blocks-markdown](https://github.com/atacan/slack-blocks-markdown)** - Python library that converts Markdown into Slack Block Kit blocks, handling headers, lists, code blocks, tables, and all inline formatting.
+- **[slack-blocks-markdown](https://github.com/atacan/slack-blocks-markdown)** - Convert Markdown into Slack Block Kit blocks
 
 ## Tutorials
 
-You can do it! Read [Blog](https://actondon.com/blog)  
+You can do things. Read [Blog](https://actondon.com/blog)  
 or let your coding agent to read it and implement it for you ;)
 
 
