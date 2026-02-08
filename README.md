@@ -17,7 +17,7 @@
 - 🛠️ **[Blissum](https://actondon.com/apps/blissum)** - macOS & iOS developer toolkit with converters, formatters, generators
 - ⏺️ **[record](https://github.com/atacan/record)** - Swift CLI that records microphone and screen, pipe-friendly for AI agents
 
-## Packages
+## Libraries
 
 ### Useful things for Swift
 
