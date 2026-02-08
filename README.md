@@ -29,17 +29,19 @@
 - 🚦 **[RateLimiter](https://github.com/atacan/RateLimiter)** - Actor-based per-IP rate limiter with Hummingbird middleware
 - 🔤 **[swift-string-similarity](https://github.com/atacan/swift-string-similarity)** - string similarity algorithms for Swift
 - ✨ **[JSBeautify](https://github.com/atacan/JSBeautify)** - Format JavaScript, CSS, and HTML in Swift via JavaScriptCore
+- 🖍️ **[swift-highlight](https://github.com/atacan/swift-highlight)** - Swift port of highlight.js for syntax highlighting
 
 ### Missing Swift SDKs
 
 - 🧠 **[AssemblyAI](https://github.com/atacan/AssemblyAI)** - Unofficial Swift SDK for AssemblyAI, built with Swift OpenAPI Generator
-- 🌀 **[MistralAPI](https://github.com/atacan/MistralAPI)** - Swift client for Mistral AI, generated from the official OpenAPI spec
-- 📨 **[TelegramBotAPI](https://github.com/atacan/TelegramBotAPI)** - Typed Swift client for Telegram Bot API + swift-log backend for chat logging
+- 🌀 **[Mistral](https://github.com/atacan/MistralAPI)** - Swift client for Mistral AI, generated from the official OpenAPI spec
+- 🤖 **[OpenAI](https://github.com/atacan/swift-openai-api)** - Swift client for OpenAI API, generated from the official OpenAPI spec
+- 📨 **[TelegramBot](https://github.com/atacan/TelegramBotAPI)** - Typed Swift client for Telegram Bot API + swift-log backend for chat logging
 - ⚙️ **[swift-package-generator-based-on-openapi](https://github.com/atacan/swift-package-generator-based-on-openapi)** - Generate Swift packages from any OpenAPI spec, with auto-sanitization
 
 ### Python
 
-- 🐍 **[slack-blocks-markdown](https://github.com/atacan/slack-blocks-markdown)** - Convert Markdown into Slack Block Kit blocks
+- 💬 **[slack-blocks-markdown](https://github.com/atacan/slack-blocks-markdown)** - Convert Markdown into Slack Block Kit blocks
 
 ## Tutorials
 
