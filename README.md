@@ -19,7 +19,7 @@
 
 ## Libraries
 
-### Useful things for Swift
+**Useful things for Swift**
 
 - 🧰 **[UsefulThings](https://github.com/atacan/UsefulThings)** - Zero-dependency async utilities: rate limiters, retry, circuit breakers, polling
 - 🎨 **[UsefulThingsSwiftUI](https://github.com/atacan/UsefulThingsSwiftUI)** - SwiftUI components that fill the gaps
@@ -31,7 +31,7 @@
 - ✨ **[JSBeautify](https://github.com/atacan/JSBeautify)** - Format JavaScript, CSS, and HTML in Swift via JavaScriptCore
 - 🖍️ **[swift-highlight](https://github.com/atacan/swift-highlight)** - Swift port of highlight.js for syntax highlighting
 
-### Missing Swift SDKs
+**Missing Swift SDKs**
 
 - 🧠 **[AssemblyAI](https://github.com/atacan/AssemblyAI)** - Unofficial Swift SDK for AssemblyAI, built with Swift OpenAPI Generator
 - 🌀 **[Mistral](https://github.com/atacan/MistralAPI)** - Swift client for Mistral AI, generated from the official OpenAPI spec
@@ -39,7 +39,7 @@
 - 📨 **[TelegramBot](https://github.com/atacan/TelegramBotAPI)** - Typed Swift client for Telegram Bot API + swift-log backend for chat logging
 - ⚙️ **[swift-package-generator-based-on-openapi](https://github.com/atacan/swift-package-generator-based-on-openapi)** - Generate Swift packages from any OpenAPI spec, with auto-sanitization
 
-### Python
+**Python**
 
 - 💬 **[slack-blocks-markdown](https://github.com/atacan/slack-blocks-markdown)** - Convert Markdown into Slack Block Kit blocks
 
