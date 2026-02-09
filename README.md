@@ -21,7 +21,7 @@
 
 **Useful things for Swift**
 
-- 🧰 **[UsefulThings](https://github.com/atacan/UsefulThings)** - Zero-dependency async utilities: rate limiters, retry, circuit breakers, polling
+- 🧰 **[UsefulThings](https://github.com/atacan/UsefulThings)** - async sequence utilities, rate limiters, retry, circuit breakers, polling
 - 🎨 **[UsefulThingsSwiftUI](https://github.com/atacan/UsefulThingsSwiftUI)** - SwiftUI components that fill the gaps
 - 🧩 **[UsefulThingsPointFree](https://github.com/atacan/UsefulThingsPointFree)** - TCA dependencies for accessibility, clipboard, file panels, speech, and more
 - 📋 **[SwiftLogExport](https://github.com/atacan/SwiftLogExport)** - Build custom swift-log backends with buffering, async processing, graceful shutdown
