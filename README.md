@@ -13,7 +13,8 @@
 - 🚀 **[dopdock](https://dopdock.com/)** - macOS automation via a reimagined dock or voice commands
 - 🗣️ **[Speechall](https://speechall.com/)** - Unified speech-to-text API gateway for 12+ providers
 - 🛠️ **[Blissum](https://actondon.com/apps/blissum)** - macOS & iOS developer toolkit with converters, formatters, generators
-- ⏺️ **[record](https://github.com/atacan/record)** - Swift CLI that records microphone and screen, pipe-friendly for AI agents
+- ⏺️ **[record](https://github.com/atacan/record)** - CLI tool that records microphone, camera and screen. Pipe-friendly for AI agents
+- 🌐 **[translate](https://github.com/atacan/translate)** - CLI tool that translates text, files, xcstrings. Customizable with many providers. 
 
 ## Libraries
 
@@ -23,10 +24,14 @@
 - 🎨 **[UsefulThingsSwiftUI](https://github.com/atacan/UsefulThingsSwiftUI)** - SwiftUI components that fill the gaps
 - 🧩 **[UsefulThingsPointFree](https://github.com/atacan/UsefulThingsPointFree)** - TCA dependencies for accessibility, clipboard, file panels, speech, and more
 - 🎙️ **[AudioRecorderClient](https://github.com/atacan/AudioRecorder)** - Dependencies for audio recording. live streaming, VAD, and file recording
+- 📝 **[StringCatalogkit](https://github.com/atacan/StringCatalogkit)** - reading, writing, and translating Xcode .xcstrings
+
 - 📋 **[SwiftLogExport](https://github.com/atacan/SwiftLogExport)** - Build custom swift-log backends with buffering, async processing, graceful shutdown
 - 🐘 **[postgres-for-swift-log](https://github.com/atacan/postgres-for-swift-log)** - swift-log backend that persists entries to PostgreSQL
 - 🚦 **[RateLimiter](https://github.com/atacan/RateLimiter)** - Actor-based per-IP rate limiter with Hummingbird middleware
+
 - 🔤 **[swift-string-similarity](https://github.com/atacan/swift-string-similarity)** - string similarity algorithms for Swift
+
 - ✨ **[JSBeautify](https://github.com/atacan/JSBeautify)** - Format JavaScript, CSS, and HTML in Swift via JavaScriptCore
 - 🖍️ **[swift-highlight](https://github.com/atacan/swift-highlight)** - Swift port of highlight.js for syntax highlighting
 
