@@ -35,6 +35,7 @@
 - ✴️ **[Claude](https://github.com/atacan/AnthropicAPI)** - Unofficial Swift SDK for Anthropic Claude API, built with Swift OpenAPI Generator
 - 🧠 **[Gemini](https://github.com/atacan/GoogleGenerativeLanguage)** - Google Generative Language API (Gemini). Auto-generated from Google's OpenAPI spec
 - 🌀 **[Mistral](https://github.com/atacan/MistralAPI)** - Swift client for Mistral AI, generated from the official OpenAPI spec
+- 🎵 **[ElevenLabs](https://github.com/atacan/ElevenLabs)** - Swift client for ElevenLabs API (TTS & STT), generated from the official OpenAPI spec
 - ֎ **[OpenAI](https://github.com/atacan/swift-openai-api)** - Swift client for OpenAI API, generated from the official OpenAPI spec
 - 📨 **[TelegramBot](https://github.com/atacan/TelegramBotAPI)** - Typed Swift client for Telegram Bot API + swift-log backend for chat logging
 - ⚙️ **[swift-package-generator-based-on-openapi](https://github.com/atacan/swift-package-generator-based-on-openapi)** - Generate Swift packages from any OpenAPI spec, with auto-sanitization
