@@ -22,6 +22,7 @@
 - 🧰 **[UsefulThings](https://github.com/atacan/UsefulThings)** - async sequence utilities, rate limiters, retry, circuit breakers, polling
 - 🎨 **[UsefulThingsSwiftUI](https://github.com/atacan/UsefulThingsSwiftUI)** - SwiftUI components that fill the gaps
 - 🧩 **[UsefulThingsPointFree](https://github.com/atacan/UsefulThingsPointFree)** - TCA dependencies for accessibility, clipboard, file panels, speech, and more
+- 🎙️ **[AudioRecorderClient](https://github.com/atacan/AudioRecorder)** - Dependencies for audio recording. live streaming, VAD, and file recording
 - 📋 **[SwiftLogExport](https://github.com/atacan/SwiftLogExport)** - Build custom swift-log backends with buffering, async processing, graceful shutdown
 - 🐘 **[postgres-for-swift-log](https://github.com/atacan/postgres-for-swift-log)** - swift-log backend that persists entries to PostgreSQL
 - 🚦 **[RateLimiter](https://github.com/atacan/RateLimiter)** - Actor-based per-IP rate limiter with Hummingbird middleware
