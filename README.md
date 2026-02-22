@@ -20,36 +20,33 @@
 
 **Useful things for Swift**
 
-- 🧰 **[UsefulThings](https://github.com/atacan/UsefulThings)** - async sequence utilities, rate limiters, retry, circuit breakers, polling
-- 🎨 **[UsefulThingsSwiftUI](https://github.com/atacan/UsefulThingsSwiftUI)** - SwiftUI components that fill the gaps
-- 🧩 **[UsefulThingsPointFree](https://github.com/atacan/UsefulThingsPointFree)** - TCA dependencies for accessibility, clipboard, file panels, speech, and more
-- 🎙️ **[AudioRecorderClient](https://github.com/atacan/AudioRecorder)** - Dependencies for audio recording. live streaming, VAD, and file recording
-- 📝 **[StringCatalogkit](https://github.com/atacan/StringCatalogkit)** - reading, writing, and translating Xcode .xcstrings
-
-- 📋 **[SwiftLogExport](https://github.com/atacan/SwiftLogExport)** - Build custom swift-log backends with buffering, async processing, graceful shutdown
-- 🐘 **[postgres-for-swift-log](https://github.com/atacan/postgres-for-swift-log)** - swift-log backend that persists entries to PostgreSQL
-- 🚦 **[RateLimiter](https://github.com/atacan/RateLimiter)** - Actor-based per-IP rate limiter with Hummingbird middleware
-
-- 🔤 **[swift-string-similarity](https://github.com/atacan/swift-string-similarity)** - string similarity algorithms for Swift
-
-- ✨ **[JSBeautify](https://github.com/atacan/JSBeautify)** - Format JavaScript, CSS, and HTML in Swift via JavaScriptCore
-- 🖍️ **[swift-highlight](https://github.com/atacan/swift-highlight)** - Swift port of highlight.js for syntax highlighting
+- **[UsefulThings](https://github.com/atacan/UsefulThings)** - async sequence utilities, rate limiters, retry, circuit breakers, polling
+- **[UsefulThingsSwiftUI](https://github.com/atacan/UsefulThingsSwiftUI)** - SwiftUI components that fill the gaps
+- **[UsefulThingsPointFree](https://github.com/atacan/UsefulThingsPointFree)** - TCA dependencies for accessibility, clipboard, file panels, speech, and more
+- **[AudioRecorderClient](https://github.com/atacan/AudioRecorder)** - Dependencies for audio recording. live streaming, VAD, and file recording
+- **[StringCatalogkit](https://github.com/atacan/StringCatalogkit)** - reading, writing, and translating Xcode .xcstrings
+- **[SwiftLogExport](https://github.com/atacan/SwiftLogExport)** - Build custom swift-log backends with buffering, async processing, graceful shutdown
+- **[postgres-for-swift-log](https://github.com/atacan/postgres-for-swift-log)** - swift-log backend that persists entries to PostgreSQL
+- **[RateLimiter](https://github.com/atacan/RateLimiter)** - Actor-based per-IP rate limiter with Hummingbird middleware
+- **[swift-string-similarity](https://github.com/atacan/swift-string-similarity)** - string similarity algorithms for Swift
+- **[JSBeautify](https://github.com/atacan/JSBeautify)** - Format JavaScript, CSS, and HTML in Swift via JavaScriptCore
+- **[swift-highlight](https://github.com/atacan/swift-highlight)** - Swift port of highlight.js for syntax highlighting
 
 **Missing Swift SDKs**
 
-- ⚗️ **[AssemblyAI](https://github.com/atacan/AssemblyAI)** - Unofficial Swift SDK for AssemblyAI, built with Swift OpenAPI Generator
-- ✴️ **[Claude](https://github.com/atacan/AnthropicAPI)** - Unofficial Swift SDK for Anthropic Claude API, built with Swift OpenAPI Generator
-- 🌐 **[DeepLAPI](https://github.com/atacan/DeepLAPI)** - Swift client for DeepL translation API, generated from the official OpenAPI spec
-- 🎵 **[ElevenLabs](https://github.com/atacan/ElevenLabs)** - Swift client for ElevenLabs API (TTS & STT), generated from the official OpenAPI spec
-- 🧠 **[Gemini](https://github.com/atacan/GoogleGenerativeLanguage)** - Google Generative Language API (Gemini). Auto-generated from Google's OpenAPI spec
-- 🌀 **[Mistral](https://github.com/atacan/MistralAPI)** - Swift client for Mistral AI, generated from the official OpenAPI spec
-- ֎ **[OpenAI](https://github.com/atacan/swift-openai-api)** - Swift client for OpenAI API, generated from the official OpenAPI spec
-- 📨 **[TelegramBot](https://github.com/atacan/TelegramBotAPI)** - Typed Swift client for Telegram Bot API + swift-log backend for chat logging
-- ⚙️ **[swift-package-generator-based-on-openapi](https://github.com/atacan/swift-package-generator-based-on-openapi)** - Generate Swift packages from any OpenAPI spec, with auto-sanitization
+- **[AssemblyAI](https://github.com/atacan/AssemblyAI)** - Unofficial Swift SDK for AssemblyAI, built with Swift OpenAPI Generator
+- **[Claude](https://github.com/atacan/AnthropicAPI)** - Unofficial Swift SDK for Anthropic Claude API, built with Swift OpenAPI Generator
+- **[DeepLAPI](https://github.com/atacan/DeepLAPI)** - Swift client for DeepL translation API, generated from the official OpenAPI spec
+- **[ElevenLabs](https://github.com/atacan/ElevenLabs)** - Swift client for ElevenLabs API (TTS & STT), generated from the official OpenAPI spec
+- **[Gemini](https://github.com/atacan/GoogleGenerativeLanguage)** - Google Generative Language API (Gemini). Auto-generated from Google's OpenAPI spec
+- **[Mistral](https://github.com/atacan/MistralAPI)** - Swift client for Mistral AI, generated from the official OpenAPI spec
+- **[OpenAI](https://github.com/atacan/swift-openai-api)** - Swift client for OpenAI API, generated from the official OpenAPI spec
+- **[TelegramBot](https://github.com/atacan/TelegramBotAPI)** - Typed Swift client for Telegram Bot API + swift-log backend for chat logging
+- **[swift-package-generator-based-on-openapi](https://github.com/atacan/swift-package-generator-based-on-openapi)** - Generate Swift packages from any OpenAPI spec, with auto-sanitization
 
 **Python**
 
-- 💬 **[slack-blocks-markdown](https://github.com/atacan/slack-blocks-markdown)** - Convert Markdown into Slack Block Kit blocks
+- **[slack-blocks-markdown](https://github.com/atacan/slack-blocks-markdown)** - Convert Markdown into Slack Block Kit blocks
 
 ## Tutorials
 
