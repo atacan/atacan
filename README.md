@@ -29,8 +29,11 @@
 - **[postgres-for-swift-log](https://github.com/atacan/postgres-for-swift-log)** - swift-log backend that persists entries to PostgreSQL
 - **[RateLimiter](https://github.com/atacan/RateLimiter)** - Actor-based per-IP rate limiter with Hummingbird middleware
 - **[swift-string-similarity](https://github.com/atacan/swift-string-similarity)** - string similarity algorithms for Swift
-- **[JSBeautify](https://github.com/atacan/JSBeautify)** - Format JavaScript, CSS, and HTML in Swift via JavaScriptCore
 - **[swift-highlight](https://github.com/atacan/swift-highlight)** - Swift port of highlight.js for syntax highlighting
+
+Javascript Wrappers
+
+- **[JSBeautify](https://github.com/atacan/JSBeautify)** - Format JavaScript, CSS, and HTML in Swift via JavaScriptCore
 
 **Missing Swift SDKs**
 
