@@ -34,6 +34,7 @@
 Javascript Wrappers
 
 - **[JSBeautify](https://github.com/atacan/JSBeautify)** - Format JavaScript, CSS, and HTML in Swift via JavaScriptCore
+- **[JSDiff](https://github.com/atacan/swift-jsdiff)** - Diff two strings and visualize it in SwiftUI
 
 **Missing Swift SDKs**
 
