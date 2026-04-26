@@ -16,6 +16,9 @@
 - ⏺️ **[record](https://github.com/atacan/record)** - CLI tool that records microphone, camera and screen. Pipe-friendly for AI agents
 - 🌐 **[translate](https://github.com/atacan/translate)** - CLI tool that translates text, files, xcstrings. Customizable with many providers. 
 
+## Tools
+- **[Font Comparison](https://actondon.com/tools/font-comparison)** - Overlay fonts on on top of each other to inspect glyph shape differences
+
 ## Libraries
 
 **Useful things for Swift**
