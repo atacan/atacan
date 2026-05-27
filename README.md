@@ -43,6 +43,7 @@ Javascript Wrappers
 
 - **[AssemblyAI](https://github.com/atacan/AssemblyAI)** - Unofficial Swift SDK for AssemblyAI, built with Swift OpenAPI Generator
 - **[Claude](https://github.com/atacan/AnthropicAPI)** - Unofficial Swift SDK for Anthropic Claude API, built with Swift OpenAPI Generator
+- **[Deepgram](https://github.com/atacan/Deepgram)** - Unofficial Swift SDK for Deepgram API, built with Swift OpenAPI Generator
 - **[DeepLAPI](https://github.com/atacan/DeepLAPI)** - Swift client for DeepL translation API, generated from the official OpenAPI spec
 - **[ElevenLabs](https://github.com/atacan/ElevenLabs)** - Swift client for ElevenLabs API (TTS & STT), generated from the official OpenAPI spec
 - **[Gemini](https://github.com/atacan/GoogleGenerativeLanguage)** - Google Generative Language API (Gemini). Auto-generated from Google's OpenAPI spec
