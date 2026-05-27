@@ -1,12 +1,3 @@
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/-IOS-black?logo=apple)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
-
-[![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-
 ## Apps
 
 - 🎙️ **[dictop](https://dictop.com/)** - Dictation for macOS/iOS that writes into any app with the best models
@@ -59,8 +50,17 @@ Javascript Wrappers
 ## Tutorials
 
 You can do things. Read [Blog](https://actondon.com/blog)  
-or let your coding agent to read it and implement it for you ;)
 
+---
+
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/-IOS-black?logo=apple)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+
+[![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 
 <!--
 **atacan/atacan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
