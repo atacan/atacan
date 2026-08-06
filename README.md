@@ -28,7 +28,6 @@
 - **[RateLimiter](https://github.com/atacan/RateLimiter)** - Actor-based per-IP rate limiter with Hummingbird middleware
 - **[swift-string-similarity](https://github.com/atacan/swift-string-similarity)** - string similarity algorithms for Swift
 - **[swift-highlight](https://github.com/atacan/swift-highlight)** - Swift port of highlight.js for syntax highlighting
-
 - **[JSBeautify](https://github.com/atacan/JSBeautify)** - Format JavaScript, CSS, and HTML in Swift via JavaScriptCore
 - **[JSDiff](https://github.com/atacan/swift-jsdiff)** - Diff two strings and visualize it in SwiftUI
 
