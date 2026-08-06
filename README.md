@@ -16,7 +16,7 @@
 
 ## Libraries
 
-**Useful things for Swift**
+### Useful things for Swift
 
 - **[UsefulThings](https://github.com/atacan/UsefulThings)** - async sequence utilities, rate limiters, retry, circuit breakers, polling
 - **[UsefulThingsSwiftUI](https://github.com/atacan/UsefulThingsSwiftUI)** - SwiftUI components that fill the gaps
@@ -28,8 +28,6 @@
 - **[RateLimiter](https://github.com/atacan/RateLimiter)** - Actor-based per-IP rate limiter with Hummingbird middleware
 - **[swift-string-similarity](https://github.com/atacan/swift-string-similarity)** - string similarity algorithms for Swift
 - **[swift-highlight](https://github.com/atacan/swift-highlight)** - Swift port of highlight.js for syntax highlighting
-
-Javascript Wrappers
 
 - **[JSBeautify](https://github.com/atacan/JSBeautify)** - Format JavaScript, CSS, and HTML in Swift via JavaScriptCore
 - **[JSDiff](https://github.com/atacan/swift-jsdiff)** - Diff two strings and visualize it in SwiftUI
@@ -47,7 +45,7 @@ Javascript Wrappers
 - **[TelegramBot](https://github.com/atacan/TelegramBotAPI)** - Typed Swift client for Telegram Bot API + swift-log backend for chat logging
 - **[swift-package-generator-based-on-openapi](https://github.com/atacan/swift-package-generator-based-on-openapi)** - Generate Swift packages from any OpenAPI spec, with auto-sanitization
 
-**Python**
+### Python
 
 - **[slack-blocks-markdown](https://github.com/atacan/slack-blocks-markdown)** - Convert Markdown into Slack Block Kit blocks
 
