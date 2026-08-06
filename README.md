@@ -4,10 +4,14 @@
 - 🚀 **[dopdock](https://dopdock.com/)** - macOS automation via a reimagined dock or voice commands
 - 🗣️ **[Speechall](https://speechall.com/)** - Unified speech-to-text API gateway for 12+ providers
 - 🛠️ **[Blissum](https://actondon.com/apps/blissum)** - macOS & iOS developer toolkit with converters, formatters, generators
+
+## CLI
+
 - ⏺️ **[record](https://github.com/atacan/record)** - CLI tool that records microphone, camera and screen. Pipe-friendly for AI agents
 - 🌐 **[translate](https://github.com/atacan/translate)** - CLI tool that translates text, files, xcstrings. Customizable with many providers. 
 
 ## Tools
+
 - **[Font Comparison](https://actondon.com/tools/font-comparison)** - Overlay fonts on on top of each other to inspect glyph shape differences
 
 ## Libraries
