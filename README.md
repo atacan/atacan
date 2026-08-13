@@ -8,13 +8,18 @@
 ## CLI
 
 - ⏺️ **[record](https://github.com/atacan/record)** - CLI tool that records microphone, camera and screen. Pipe-friendly for AI agents
-- 🌐 **[translate](https://github.com/atacan/translate)** - CLI tool that translates text, files, xcstrings. Customizable with many providers. 
+- 🌐 **[translate](https://github.com/atacan/translate)** - CLI tool that translates text, files, xcstrings. Customizable with many providers.
+- ✂️ **[code-splice](https://github.com/atacan/code-splice)** - Move and copy code exactly without reformatting or regeneration.
 
 ## Tools
 
 - **[Font Comparison](https://actondon.com/tools/font-comparison)** - Overlay fonts on on top of each other to inspect glyph shape differences
 
 ## Libraries
+
+### TypeScript
+
+- **[speakable-text](https://github.com/atacan/speakable-text)** - Convert Markdown into deterministic, TTS-friendly text with semantic structure and pluggable renderers
 
 ### Useful things for Swift
 
