@@ -9,7 +9,7 @@
 
 - ⏺️ **[record](https://github.com/atacan/record)** - CLI tool that records microphone, camera and screen. Pipe-friendly for AI agents
 - 🌐 **[translate](https://github.com/atacan/translate)** - CLI tool that translates text, files, xcstrings. Customizable with many providers.
-- ✂️ **[code-splice](https://github.com/atacan/code-splice)** - Move and copy code exactly without reformatting or regeneration.
+- ✂️ **[srcmv](https://github.com/atacan/srcmv)** - Move and copy code exactly without reformatting or regeneration.
 
 ## Tools
 
