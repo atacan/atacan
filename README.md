@@ -21,7 +21,7 @@
 
 - **[speakable-text](https://github.com/atacan/speakable-text)** - Convert Markdown into deterministic, TTS-friendly text with semantic structure and pluggable renderers
 
-### Useful things for Swift
+### Swift
 
 - **[UsefulThings](https://github.com/atacan/UsefulThings)** - async sequence utilities, rate limiters, retry, circuit breakers, polling
 - **[UsefulThingsSwiftUI](https://github.com/atacan/UsefulThingsSwiftUI)** - SwiftUI components that fill the gaps
