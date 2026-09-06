@@ -9,6 +9,7 @@
 
 - ⏺️ **[record](https://github.com/atacan/record)** - CLI tool that records microphone, camera and screen. Pipe-friendly for AI agents
 - 🌐 **[translate](https://github.com/atacan/translate)** - CLI tool that translates text, files, xcstrings. Customizable with many providers
+- 📦 **[codegenbox](https://github.com/atacan/codegenbox)** - Run coding agents in isolated disposable Docker workspaces with safe branches
 - ✂️ **[srcmv](https://github.com/atacan/srcmv)** - Move and copy code exactly without reformatting or regeneration
 
 ## Online Tools
