@@ -11,7 +11,7 @@
 - 🌐 **[translate](https://github.com/atacan/translate)** - CLI tool that translates text, files, xcstrings. Customizable with many providers
 - ✂️ **[srcmv](https://github.com/atacan/srcmv)** - Move and copy code exactly without reformatting or regeneration
 
-## Tools
+## Online Tools
 
 - **[Font Comparison](https://actondon.com/tools/font-comparison)** - Overlay fonts on on top of each other to inspect glyph shape differences
 
